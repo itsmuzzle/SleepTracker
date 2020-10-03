@@ -1,3 +1,5 @@
+Simple app to showcase android development techniques. 
+
 ## SleepQualityTracker
 
 The SleepQualityTracker app is an app that helps you collect information about your sleep. 
